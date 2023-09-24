@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Home() {
   return (
-    <div>New Update</div>
+    <div>Home</div>
   )
 }
