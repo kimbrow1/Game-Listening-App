@@ -17,7 +17,7 @@ export default function Header() {
         </div>
         <div>
          {toogle? <HiOutlineMoon className='text-[35px] bg-slate-200 text-black p-1 rounded-full' onClick={ () => setToogle(!toogle)}/>: <HiSun className='text-[35px] bg-slate-200 text-black p-1 rounded-full'/>} 
-       
+       // new 
         </div>
     </div>
   )
